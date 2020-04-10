@@ -1,6 +1,6 @@
 ---
 order: 0
-title: Ant Design of Angular
+title: Ant Design of Blazor
 ---
 
 Following the Ant Design specification, we developed a Blazor Components library `ant-design-blazor` that contains a set of high quality components and demos for building rich, interactive user interfaces.

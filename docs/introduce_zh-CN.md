@@ -1,6 +1,6 @@
 ---
 order: 0
-title: Ant Design of Angular
+title: Ant Design of Blazor
 ---
 
 这里是 Ant Design 的 Blazor 实现，开发和服务于企业级后台产品。
